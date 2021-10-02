@@ -1,5 +1,5 @@
 ---
-title: Remeras originales
+title: Conjuntos originales
 layout: category
 order: 2
 seo:
