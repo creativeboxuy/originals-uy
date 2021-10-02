@@ -1,5 +1,5 @@
 ---
-title: Camperas originales
+title: Prendas originales
 layout: category
 order: 1
 seo:
