@@ -12,7 +12,7 @@ sections:
 
       ser hermoso, la comodidad de la ropa más linda.
     actions:
-      - title: See all items
+      - title: Ver más
         url: /store
         arrow: true
         style: primary
