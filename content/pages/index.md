@@ -51,7 +51,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Conjuntos originales a precios originales
-    subtitle: from $149.99
+    subtitle: Desde $899
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
