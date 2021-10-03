@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/keagan-henman-Won79_9oUEk-unsplash.jpeg
     background_image_opacity: 65
     content: |
       # se original
