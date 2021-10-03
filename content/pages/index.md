@@ -53,7 +53,6 @@ sections:
     title: Conjuntos originales a precios originales
     subtitle: Desde $899
     image: images/parker-burchfield-tvG4WvjgsEY-unsplash.jpeg
-    background_image: images/leaf.svg
     cta:
       title: Conocelos
       url: /store
