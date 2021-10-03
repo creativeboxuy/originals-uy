@@ -52,7 +52,7 @@ sections:
     section_id: promotion_section
     title: Conjuntos originales a precios originales
     subtitle: Desde $899
-    image: images/md-salman-tWOz2_EK5EQ-unsplash.jpeg
+    image: images/parker-burchfield-tvG4WvjgsEY-unsplash.jpeg
     background_image: images/leaf.svg
     cta:
       title: Conocelos
