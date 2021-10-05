@@ -54,7 +54,7 @@ sections:
     subtitle: Prendas desde $899 que van bien con todo!
     image: images/parker-burchfield-tvG4WvjgsEY-unsplash.jpeg
     cta:
-      title: Conocelos
+      title: Llevate las tuyas
       url: /store
       style: secondary
       arrow: true
