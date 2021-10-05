@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '490.00'
+price: '890.00'
 title: Buzo negro
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
