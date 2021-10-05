@@ -57,7 +57,7 @@ sections:
       arrow: true
 seo:
   title: Planty Theme
-  description: The preview of the Planty theme
+  description: Sos original, tu ropa también.
   extra:
     - name: 'og:type'
       value: website
