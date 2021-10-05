@@ -41,7 +41,7 @@ sections:
         text: >-
           Creado por Creative Box. Agencia de marketing y producción digital.
       - author:
-          name: Major Payne
+          name: Creative Box
           location: 'VA, USA'
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
