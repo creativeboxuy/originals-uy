@@ -15,7 +15,7 @@ sections:
       - title: Ver prendas
         url: /store
         arrow: true
-        style: link
+        style: secondary
   - type: featured_products_section
     section_id: best_sellers_section
     title: Lo más vendido
