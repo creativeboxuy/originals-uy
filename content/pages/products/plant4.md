@@ -2,7 +2,7 @@
 layout: product
 id: '4'
 price: '1490.00'
-title: Cras molestie
+title: Conjunto gris
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/conjunto-03-web-originals-01.jpg
 default_original_image: images/plant4-lg.jpg
