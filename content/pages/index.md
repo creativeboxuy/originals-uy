@@ -18,7 +18,7 @@ sections:
         style: primary
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Nuestros favoritos
+    title: Originales favoritos
     icon: true
     light_title: true
     featured_products:
