@@ -12,7 +12,7 @@ sections:
 
       Llevá siempre con vos tus prendas cómodas y originales.
     actions:
-      - title: Ver más
+      - title: Ver prendas
         url: /store
         arrow: true
         style: primary
