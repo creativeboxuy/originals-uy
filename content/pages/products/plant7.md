@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '7'
-price: '890'
+price: '890.00'
 title: Canguro gris
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/producto-04-web-originals-01.jpg
