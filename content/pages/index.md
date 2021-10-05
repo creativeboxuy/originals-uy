@@ -56,7 +56,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
+  title: Originals
   description: Sos original, tu ropa también.
   extra:
     - name: 'og:type'
