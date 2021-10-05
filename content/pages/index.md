@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/hero-web-originals-02.jpg
+    background_image: images/hero-web-originals-02-b.jpg
     background_image_opacity: 65
     content: |
       # Sos original, tu ropa también.
