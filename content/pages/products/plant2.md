@@ -2,7 +2,7 @@
 layout: product
 id: '2'
 price: '99.00'
-title: Integer porta
+title: Conjunto negro
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/conjunto-01-web-originals-01.jpg
 default_original_image: images/plant2-lg.jpg
