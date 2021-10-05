@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '1490.00'
 title: Conjunto rojo
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/conjunto-02-web-originals-01.jpg
