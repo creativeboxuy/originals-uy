@@ -44,8 +44,7 @@ sections:
           name: Creative Box
           location: 'Montevideo, Uruguay'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          Creado por Creative Box. Agencia de marketing y producción digital.
   - type: promotion_section
     section_id: promotion_section
     title: Que no falte en tu ropero ;)
