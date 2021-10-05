@@ -8,9 +8,9 @@ sections:
     background_image: images/hero-web-originals-01.jpg
     background_image_opacity: 65
     content: |
-      # se original
+      # Sos original, tu ropa también.
 
-      ser hermoso, la comodidad de la ropa más linda.
+      Llevá siempre con vos tus prendas cómodas y originales.
     actions:
       - title: Ver más
         url: /store
