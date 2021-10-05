@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '2'
-price: '99.00'
+price: '990.00'
 title: Conjunto negro
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/conjunto-01-web-originals-01.jpg
