@@ -66,7 +66,7 @@ seo:
       value: Planty Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: Sos original, tu ropa también.
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
