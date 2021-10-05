@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '9'
-price: '400.00'
+price: '1690.00'
 title: Fusce sagittis
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/conjunto-04-web-originals-01.jpg
