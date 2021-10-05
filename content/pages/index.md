@@ -39,7 +39,7 @@ sections:
           name: Julian Martin
           location: 'Montevideo, Uruguay'
         text: >-
-          Creative Box. Agencia de marketing y producción digital.
+          Creado por Creative Box. Agencia de marketing y producción digital.
       - author:
           name: Major Payne
           location: 'VA, USA'
