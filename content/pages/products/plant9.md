@@ -2,7 +2,7 @@
 layout: product
 id: '9'
 price: '1690.00'
-title: Fusce sagittis
+title: Conjunto rojo exclusivo
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/conjunto-04-web-originals-01.jpg
 default_original_image: images/plant9-lg.jpg
