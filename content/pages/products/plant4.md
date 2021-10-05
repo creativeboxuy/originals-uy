@@ -4,7 +4,7 @@ id: '4'
 price: '1490.00'
 title: Cras molestie
 description: Maecenas pretium blandit ex id lobortis.
-default_thumbnail_image: images/plant4.jpg
+default_thumbnail_image: images/conjunto-03-web-originals-01.jpg
 default_original_image: images/plant4-lg.jpg
 order: 4
 category: content/pages/category/cactuses.md
