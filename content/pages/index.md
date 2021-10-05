@@ -51,7 +51,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Que no falte en tu ropero ;)
-    subtitle: Desde $899
+    subtitle: Prendas desde $899 que van bien con todo!
     image: images/parker-burchfield-tvG4WvjgsEY-unsplash.jpeg
     cta:
       title: Conocelos
