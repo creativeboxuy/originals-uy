@@ -63,7 +63,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: Originals
       keyName: property
     - name: 'og:description'
       value: Sos original, tu ropa también.
