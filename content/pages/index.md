@@ -75,7 +75,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Planty Theme
+      value: Originals
     - name: 'twitter:description'
       value: Sos original, tu ropa también.
     - name: 'twitter:image'
