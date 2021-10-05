@@ -36,7 +36,7 @@ sections:
     title: Experiencias originales
     testimonials:
       - author:
-          name: John Dope
+          name: Julian Martin
           location: 'Colorado, USA'
         text: >-
           I didn't know the Snipcart guys were into herbs as well! How beautiful
