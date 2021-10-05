@@ -50,7 +50,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: Conjuntos originales a precios originales
+    title: Que no falte en tu ropero ;)
     subtitle: Desde $899
     image: images/parker-burchfield-tvG4WvjgsEY-unsplash.jpeg
     cta:
