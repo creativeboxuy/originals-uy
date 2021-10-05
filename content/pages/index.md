@@ -77,7 +77,7 @@ seo:
     - name: 'twitter:title'
       value: Planty Theme
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: Sos original, tu ropa también.
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
