@@ -39,9 +39,7 @@ sections:
           name: Julian Martin
           location: 'Montevideo, Uruguay'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          Creative Box. Agencia de Marketing y producción digital.
       - author:
           name: Major Payne
           location: 'VA, USA'
